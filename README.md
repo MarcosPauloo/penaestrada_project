@@ -1,16 +1,37 @@
-# penaestrada_project
 
-A new Flutter project.
+# Pé na Estrada
 
-## Getting Started
+**Pé na Estrada** é um aplicativo que ajuda você a organizar tudo o que precisa levar em suas viagens de forma prática e eficiente. Com ele, você pode criar listas personalizadas de itens, como roupas, acessórios, documentos e muito mais, garantindo que nada seja esquecido na hora de arrumar a mala.
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- Criação de listas personalizadas para diferentes tipos de viagem.
+- Categorização de itens por tipo (roupas, acessórios, documentos, etc.).
+- Checklist interativo para marcar itens já empacotados.
+- Lembretes automáticos para itens importantes antes da viagem.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Instalação
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/MarcosPauloo/penaestrada_project.git
+   ```
+
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd travel-pack-organizer
+   ```
+
+3. Instale as dependências:
+   ```bash
+   flutter pub get
+   ```
+
+4. Inicie o aplicativo:
+   ```bash
+   flutter run
+   ```
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
